@@ -1,0 +1,6 @@
+{
+  "name": "Vision Vault (VV) - AI Surveillance & Footage Reasoning Engine",
+  "description": "Intelligent security reasoning engine that summarizes CCTV footage, tracks intruder movement, finds event clips, and calculates dynamic safe evacuation routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
